@@ -1,0 +1,1036 @@
+[
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "car_title": "2017 Ferrari 488 GTB",
+        "state": "CA",
+        "city": "Los Angeles",
+        "color": "White",
+        "model": "488 GTB",
+        "year": 2017,
+        "condition": "Used",
+        "price": 40000,
+        "description": "<p>Ferrari S.p.A. is an Italian luxury sports car manufacturer based in Maranello, Italy. Founded by Enzo Ferrari in 1939 out of the Alfa Romeo race division as Auto Avio Costruzioni, the company built its first car in 1940, and produced its first Ferrari-badged car in 1947.&nbsp;</p>",
+        "car_photo": "photos/2021/12/%d/1902536891_GhPOIPg.jpg",
+        "car_photo_1": "photos/2021/12/%d/1902536917_9q752qc.jpg",
+        "car_photo_2": "photos/2021/12/%d/1902537043_5ZkZ7W9.jpg",
+        "car_photo_3": "photos/2021/12/%d/1902537077_P58WPW0.jpg",
+        "car_photo_4": "photos/2021/12/%d/1902537082_n1MQwtp.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Alarm System,Power Steering",
+        "body_style": "Sport",
+        "engine": "3.4 L Mid-Engine V6",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 10000,
+        "doors": "4",
+        "passengers": "2",
+        "vin_no": "WET5667WYT",
+        "milage": 5,
+        "fuel_type": "Petrol",
+        "no_of_owners": "0",
+        "is_featured": false,
+        "created_date": "2021-12-09T22:44:55Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "car_title": "2017 Ford Edge",
+        "state": "CA",
+        "city": "Los Angeles",
+        "color": "Black",
+        "model": "Edge",
+        "year": 2017,
+        "condition": "Used",
+        "price": 35000,
+        "description": "<p>The&nbsp;<strong>Ford Edge</strong>&nbsp;is a range of&nbsp;<a href=\"https://en.wikipedia.org/wiki/Crossover_(automobile)\" title=\"Crossover (automobile)\">crossover SUVs</a>&nbsp;manufactured by the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company\" title=\"Ford Motor Company\">Ford Motor Company</a>. Introduced for the 2007 model year, the Edge is the first&nbsp;<a href=\"https://en.wikipedia.org/wiki/Mid-size_CUV\" title=\"Mid-size CUV\">mid-size CUV</a>&nbsp;marketed by Ford in North America; the model line is currently in its second generation. Deriving its name from a trim package of the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Ranger_(Americas)\" title=\"Ford Ranger (Americas)\">Ford Ranger</a>, the Ford Edge is positioned between the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Escape\" title=\"Ford Escape\">Ford Escape</a>&nbsp;and the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Explorer\" title=\"Ford Explorer\">Ford Explorer</a>&nbsp;within the Ford product line.</p>\r\n\r\n<p>Sharing its underpinnings with the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Fusion_(Americas)\" title=\"Ford Fusion (Americas)\">Ford Fusion sedan</a>, Ford has also produced the model line as the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Lincoln_MKX\" title=\"Lincoln MKX\">Lincoln MKX</a>&nbsp;(since 2019, the Lincoln Nautilus); the first generation was also produced as the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Mazda_CX-9\" title=\"Mazda CX-9\">Mazda CX-9</a>. The second generation is also marketed by&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_of_Europe\" title=\"Ford of Europe\">Ford of Europe</a>, positioned between the Kuga (Escape) and the Explorer PHEV.</p>\r\n\r\n<p>All production of the Ford Edge is sourced from&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company_of_Canada\" title=\"Ford Motor Company of Canada\">Ford of Canada</a>&nbsp;at&nbsp;<a href=\"https://en.wikipedia.org/wiki/Oakville_Assembly\" title=\"Oakville Assembly\">Oakville Assembly</a>&nbsp;(<a href=\"https://en.wikipedia.org/wiki/Oakville,_Ontario\" title=\"Oakville, Ontario\">Oakville, Ontario</a>) alongside the Nautilus.</p>",
+        "car_photo": "photos/2021/12/%d/1901478607.jpg",
+        "car_photo_1": "photos/2021/12/%d/1901478618.jpg",
+        "car_photo_2": "photos/2021/12/%d/1901478646.jpg",
+        "car_photo_3": "photos/2021/12/%d/1901478672.jpg",
+        "car_photo_4": "photos/2021/12/%d/1901478687.jpg",
+        "features": "Cruise Control,Airbags,Air Conditioning,Seat Heating,Alarm System,Reversing Camera",
+        "body_style": "SUV",
+        "engine": "3.4 L Mid-Engine V6",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 400,
+        "doors": "3",
+        "passengers": "2",
+        "vin_no": "WET5667WYT",
+        "milage": 5,
+        "fuel_type": "Diesel",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2021-12-09T22:46:00Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "car_title": "2017 Ford F-250 Super Duty",
+        "state": "TX",
+        "city": "Dalas",
+        "color": "Grey",
+        "model": "F-250",
+        "year": 2017,
+        "condition": "Used",
+        "price": 42000,
+        "description": "<p>The&nbsp;<strong>Ford F-Series</strong>&nbsp;is a series of trucks marketed and manufactured by&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company\" title=\"Ford Motor Company\">Ford</a>&nbsp;since the 1948 model year. Slotted above the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Ranger_(Americas)\" title=\"Ford Ranger (Americas)\">Ford Ranger</a>&nbsp;in the Ford truck model range, the F-Series is marketed as a range of full-sized pickup trucks.<a href=\"https://en.wikipedia.org/wiki/Ford_F-Series#cite_note-1\">[1]</a>&nbsp;Alongside the F-150 (introduced in 1975), the F-Series also includes the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Super_Duty\" title=\"Ford Super Duty\">Super Duty</a>&nbsp;series (introduced in 1999), which includes the heavier-duty F-250 through F-450 pickups, F-450/F-550 chassis cabs, and F-600/F-650/F-750 Class 6-8 commercial trucks. The most popular version of the model line is the F-150 pickup truck, currently in its 14th generation. From 1953 to 1985, the entry-level F-series pickup was the &frac12; ton F-100.</p>",
+        "car_photo": "photos/2021/12/%d/1894300894.jpg",
+        "car_photo_1": "photos/2021/12/%d/1894300905.jpg",
+        "car_photo_2": "photos/2021/12/%d/1894300920.jpg",
+        "car_photo_3": "photos/2021/12/%d/1900155012.jpg",
+        "car_photo_4": "photos/2021/12/%d/1900155133.jpg",
+        "features": "Cruise Control,Airbags,Air Conditioning,Alarm System,Reversing Camera",
+        "body_style": "Sport",
+        "engine": "Super Duty",
+        "transmission": "Automatic",
+        "interior": "White",
+        "miles": 52,
+        "doors": "4",
+        "passengers": "2",
+        "vin_no": "WET5667WTR",
+        "milage": 67,
+        "fuel_type": "Diesel",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2021-12-09T22:49:44Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 4,
+    "fields": {
+        "car_title": "2017 Jaguar F-PACE",
+        "state": "CA",
+        "city": "Los Angeles",
+        "color": "Black",
+        "model": "488 GTB",
+        "year": 2017,
+        "condition": "Used",
+        "price": 35000,
+        "description": "<p>1Starting at price shown is Manufacturer&rsquo;s Suggested Retail Price. Excludes $1,150 destination/handling charge, tax, title, license, and retailer fees, all due at signing, and optional equipment. Base Manufacturer&rsquo;s Suggested Retail Price excludes $1,150 destination/handling charge and may include optional equipment but excludes tax, title, license, and retailer fees, all due at signing. Total Manufacturer&rsquo;s Suggested Retail Price includes $1,150 destination/handling charge and may include optional equipment but excludes tax, title, license, and retailer fees, all due at signing. Retailer price, terms and vehicle availability may vary. See your local authorized Jaguar Retailer for details.</p>",
+        "car_photo": "photos/2021/12/%d/1902932503.jpg",
+        "car_photo_1": "photos/2021/12/%d/1902932514.jpg",
+        "car_photo_2": "photos/2021/12/%d/1902932528.jpg",
+        "car_photo_3": "photos/2021/12/%d/1902932542.jpg",
+        "car_photo_4": "",
+        "features": "Cruise Control,Airbags,Air Conditioning,Alarm System,Power Steering",
+        "body_style": "SUV",
+        "engine": "3.4 L Mid-Engine V6",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 523,
+        "doors": "4",
+        "passengers": "2",
+        "vin_no": "WET5667WTR",
+        "milage": 150,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2021-12-09T22:53:32Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 5,
+    "fields": {
+        "car_title": "2018 Toyota 4Runner",
+        "state": "CA",
+        "city": "Los Angeles",
+        "color": "Grey",
+        "model": "4Runner",
+        "year": 2018,
+        "condition": "Used",
+        "price": 16000,
+        "description": "<p>The&nbsp;<strong>Toyota 4Runner</strong>&nbsp;is a compact, later mid-size&nbsp;<a href=\"https://en.wikipedia.org/wiki/Sport_utility_vehicle\" title=\"Sport utility vehicle\">sport utility vehicle</a>&nbsp;produced by the Japanese manufacturer&nbsp;<a href=\"https://en.wikipedia.org/wiki/Toyota\" title=\"Toyota\">Toyota</a>&nbsp;and sold throughout the world from 1984 to the present. In Japan, it is known as the&nbsp;<strong>Toyota Hilux Surf</strong>&nbsp;(Japanese: \u30c8\u30e8\u30bf\u30fb\u30cf\u30a4\u30e9\u30c3\u30af\u30b9\u30b5\u30fc\u30d5,&nbsp;<em>Toyota Hairakkusus\u0101fu</em>)&nbsp;which was withdrawn from the market in 2009. The original 4Runner was a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Compact_SUV\" title=\"Compact SUV\">compact SUV</a>&nbsp;and little more than a Toyota pickup truck with a fiberglass shell over the bed, but the model has since undergone significant independent development into a cross between a compact and a mid-size SUV. All 4Runners have been built in Japan at Toyota&#39;s&nbsp;<a href=\"https://en.wikipedia.org/wiki/Tahara_plant\" title=\"Tahara plant\">plant</a>&nbsp;in&nbsp;<a href=\"https://en.wikipedia.org/wiki/Tahara,_Aichi\" title=\"Tahara, Aichi\">Tahara, Aichi</a>, or at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Hino_Motors\" title=\"Hino Motors\">Hino Motors</a>&nbsp;(a Toyota subsidiary) plant in&nbsp;<a href=\"https://en.wikipedia.org/wiki/Hamura\" title=\"Hamura\">Hamura</a>.</p>\r\n\r\n<p>The name &#39;4Runner&#39; was created by a copywriter named Robert Nathan who was working for the advertising agency&nbsp;<a href=\"https://en.wikipedia.org/wiki/Saatchi_%26_Saatchi\" title=\"Saatchi &amp; Saatchi\">Saatchi &amp; Saatchi</a>. The agency held contests to invent new vehicle names before the introduction of new Toyota models. The name 4Runner was created as a play on the term &quot;forerunner,&quot; since the sport utility vehicle was the first of its kind for Toyota with an emphasis on its 4x4 capability and seating for four.[<em><a href=\"https://en.wikipedia.org/wiki/Wikipedia:Citation_needed\" title=\"Wikipedia:Citation needed\">citation needed</a></em>]</p>\r\n\r\n<p>For Southeast Asia the Hilux Surf was replaced in 2005 by the similar&nbsp;<a href=\"https://en.wikipedia.org/wiki/Toyota_Fortuner\" title=\"Toyota Fortuner\">Fortuner</a>, which is based on the Hilux platform.</p>\r\n\r\n<p>As of 2021, the 4Runner is sold in the Bahamas, Bolivia, Canada, Chile, Colombia, Costa Rica, El Salvador, Guatemala, Panama, Peru, the United States and Venezuela.</p>\r\n\r\n<p>The 4Runner came in at number five in a 2019 study by&nbsp;<a href=\"https://en.wikipedia.org/wiki/ISeeCars.com\" title=\"ISeeCars.com\">iSeeCars.com</a>&nbsp;ranking the longest-lasting vehicles in the US. The 4Runner had 3.9&nbsp;percent of vehicles over 200,000 miles (320,000&nbsp;km), according to the study.<a href=\"https://en.wikipedia.org/wiki/Toyota_4Runner#cite_note-1\">[1]</a></p>",
+        "car_photo": "photos/2021/12/%d/1893633875.jpg",
+        "car_photo_1": "photos/2021/12/%d/1893633879.jpg",
+        "car_photo_2": "photos/2021/12/%d/1893633884.jpg",
+        "car_photo_3": "photos/2021/12/%d/1896836883.jpg",
+        "car_photo_4": "photos/2021/12/%d/1896836887.jpg",
+        "features": "Cruise Control,Airbags,Air Conditioning,Seat Heating,Alarm System,ParkAssist,Power Steering,Wind Deflector,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "Super Duty",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 562,
+        "doors": "4",
+        "passengers": "2",
+        "vin_no": "WET5667WYTGBHWHH",
+        "milage": 45623,
+        "fuel_type": "Diesel",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2021-12-14T23:30:53Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 6,
+    "fields": {
+        "car_title": "2018 Toyota Corolla",
+        "state": "AK",
+        "city": "Los Angeles",
+        "color": "White",
+        "model": "Corolla",
+        "year": 2018,
+        "condition": "Used",
+        "price": 25000,
+        "description": "<p>The&nbsp;<strong>Toyota Corolla</strong>&nbsp;(<a href=\"https://en.wikipedia.org/wiki/Japanese_language\" title=\"Japanese language\">Japanese</a>:&nbsp;\u30c8\u30e8\u30bf\u30fb\u30ab\u30ed\u30fc\u30e9,&nbsp;<a href=\"https://en.wikipedia.org/wiki/Hepburn_romanization\" title=\"Hepburn romanization\">Hepburn</a>:&nbsp;<em>Toyota Kar\u014dra</em>)&nbsp;is a series of&nbsp;<a href=\"https://en.wikipedia.org/wiki/Subcompact_car\" title=\"Subcompact car\">subcompact</a>&nbsp;and&nbsp;<a href=\"https://en.wikipedia.org/wiki/Compact_car\" title=\"Compact car\">compact cars</a>&nbsp;manufactured and marketed globally by&nbsp;<a href=\"https://en.wikipedia.org/wiki/Toyota\" title=\"Toyota\">Toyota</a>. Introduced in 1966, the Corolla was the best-selling car worldwide by 1974 and has been one of the best-selling cars in the world since then. In 1997, the Corolla became the&nbsp;<a href=\"https://en.wikipedia.org/wiki/List_of_best-selling_automobiles\" title=\"List of best-selling automobiles\">best selling nameplate in the world</a>, surpassing the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Volkswagen_Beetle\" title=\"Volkswagen Beetle\">Volkswagen Beetle</a>.<a href=\"https://en.wikipedia.org/wiki/Toyota_Corolla#cite_note-1\">[1]</a>&nbsp;Toyota reached the milestone of 50 million Corollas sold over twelve generations in 2021.<a href=\"https://en.wikipedia.org/wiki/Toyota_Corolla#cite_note-50million-2\">[2]</a>&nbsp;The series has undergone several major redesigns.</p>\r\n\r\n<p>The name&nbsp;<em><a href=\"https://en.wikipedia.org/wiki/Corolla_(headgear)\" title=\"Corolla (headgear)\">Corolla</a></em>&nbsp;is part of Toyota&#39;s naming tradition of using names derived from the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Toyota_Crown\" title=\"Toyota Crown\">Toyota Crown</a>&nbsp;for sedans, with&nbsp;<em>&quot;<a href=\"https://en.wiktionary.org/wiki/corolla\" title=\"wikt:corolla\">corolla</a>&quot;</em>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Latin\" title=\"Latin\">Latin</a>&nbsp;for &quot;small crown&quot;.<a href=\"https://en.wikipedia.org/wiki/Toyota_Corolla#cite_note-3\">[3]</a>&nbsp;The Corolla has always been exclusive in Japan to&nbsp;<em><a href=\"https://en.wikipedia.org/wiki/Toyota_Netz\" title=\"Toyota Netz\">Toyota Corolla Store</a></em>&nbsp;locations, and manufactured in Japan with a twin, called the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Toyota_Sprinter\" title=\"Toyota Sprinter\">Toyota Sprinter</a>&nbsp;until 2000. From 2006 to 2018 in Japan and much of the world, and from 2018 to 2020 in Taiwan, the hatchback companion had been called the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Toyota_Auris\" title=\"Toyota Auris\">Toyota Auris</a>.</p>\r\n\r\n<p>Early models were mostly&nbsp;<a href=\"https://en.wikipedia.org/wiki/Rear-wheel_drive\" title=\"Rear-wheel drive\">rear-wheel drive</a>, while later models have been&nbsp;<a href=\"https://en.wikipedia.org/wiki/Front-wheel_drive\" title=\"Front-wheel drive\">front-wheel drive</a>.&nbsp;<a href=\"https://en.wikipedia.org/wiki/Four-wheel_drive\" title=\"Four-wheel drive\">Four-wheel drive</a>&nbsp;versions have also been produced. The Corolla&#39;s traditional competitors have been the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Nissan_Sunny\" title=\"Nissan Sunny\">Nissan Sunny</a>, introduced the same year as the Corolla in Japan and the later&nbsp;<a href=\"https://en.wikipedia.org/wiki/Honda_Civic\" title=\"Honda Civic\">Honda Civic</a>&nbsp;and&nbsp;<a href=\"https://en.wikipedia.org/wiki/Mitsubishi_Lancer\" title=\"Mitsubishi Lancer\">Mitsubishi Lancer</a>. The Corolla&#39;s chassis designation code is &quot;E&quot;, as described in Toyota&#39;s chassis and engine codes.</p>",
+        "car_photo": "photos/2021/12/%d/1900893299.jpg",
+        "car_photo_1": "photos/2021/12/%d/1900893311.jpg",
+        "car_photo_2": "photos/2021/12/%d/1900893319.jpg",
+        "car_photo_3": "photos/2021/12/%d/1900893329.jpg",
+        "car_photo_4": "photos/2021/12/%d/1900893391.jpg",
+        "features": "Cruise Control,Airbags,Air Conditioning,Alarm System,ParkAssist,Reversing Camera,Bluetooth Handset",
+        "body_style": "Sport",
+        "engine": "Super Duty",
+        "transmission": "Automatic",
+        "interior": "White",
+        "miles": 1450,
+        "doors": "4",
+        "passengers": "2",
+        "vin_no": "WET5667WYT",
+        "milage": 52000,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2021-12-14T23:38:29Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 2,
+    "fields": {
+        "first_name": "Faith Monalissa",
+        "last_name": "Mabhena",
+        "designation": "CEO and Founder",
+        "photo": "photos/2021/12/01/IMG_20181113_113401.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2021-12-01T20:49:35.230Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 3,
+    "fields": {
+        "first_name": "Stone",
+        "last_name": "Carolyn",
+        "designation": "Creative Director",
+        "photo": "photos/2021/12/01/IMG_20180609_130146.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2021-12-01T20:50:27.333Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 4,
+    "fields": {
+        "first_name": "Kudzai",
+        "last_name": "Mabhena",
+        "designation": "Co-Founder",
+        "photo": "photos/2021/12/01/P_20190205_175629_BF_1.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2021-12-01T20:51:38.350Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 5,
+    "fields": {
+        "first_name": "Malcom",
+        "last_name": "Grey",
+        "designation": "Creative Director",
+        "photo": "photos/2021/12/01/20190630_115636.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2021-12-01T20:52:34.117Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 6,
+    "fields": {
+        "first_name": "Tanyaradzwa Sean",
+        "last_name": "Phiri",
+        "designation": "Systems Analyst",
+        "photo": "photos/2021/12/01/P_20181105_152622_BF.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2021-12-01T20:54:22.999Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 1,
+    "fields": {
+        "first_name": "Faith Monalissa",
+        "last_name": "Mabhena",
+        "car_id": 5,
+        "customer_need": "I'd like to know your best price for this",
+        "car_title": "2018 Toyota 4Runner",
+        "city": "Kwekwe",
+        "state": "",
+        "email": "fmabhena2@gmail.com",
+        "phone": "0783381598",
+        "message": "Kindly send me more information about this car",
+        "user_id": 0,
+        "create_date": "2022-06-11T13:33:15.332Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 2,
+    "fields": {
+        "first_name": "Tanyaradzwa Sean",
+        "last_name": "Phiri",
+        "car_id": 6,
+        "customer_need": "I'd like to test drive this",
+        "car_title": "2018 Toyota Corolla",
+        "city": "Harare",
+        "state": "",
+        "email": "tanya@gmail.com",
+        "phone": "0773933097",
+        "message": "Waiting patiently for your response.",
+        "user_id": 0,
+        "create_date": "2022-06-11T13:38:04.370Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 3,
+    "fields": {
+        "first_name": "Mona",
+        "last_name": "Mabhena",
+        "car_id": 4,
+        "customer_need": "I'd like to know your best price for this",
+        "car_title": "2017 Jaguar F-PACE",
+        "city": "Harare",
+        "state": "",
+        "email": "mona@gmail.com",
+        "phone": "0783381597",
+        "message": "Waiting for your response",
+        "user_id": 0,
+        "create_date": "2022-06-18T19:54:11.411Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 5,
+    "fields": {
+        "first_name": "Faith Monalissa",
+        "last_name": "Mabhena",
+        "car_id": 3,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ford F-250 Super Duty",
+        "city": "Kwekwe",
+        "state": "",
+        "email": "fmabhena2@gmail.com",
+        "phone": "0783381598",
+        "message": "",
+        "user_id": 0,
+        "create_date": "2022-06-18T21:09:51.760Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 6,
+    "fields": {
+        "first_name": "Faith Monalissa",
+        "last_name": "Mabhena",
+        "car_id": 1,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ferrari 488 GTB",
+        "city": "Kwekwe",
+        "state": "",
+        "email": "fmabhena2@gmail.com",
+        "phone": "0783381598",
+        "message": "Please respond.",
+        "user_id": 0,
+        "create_date": "2022-06-25T21:27:13.259Z"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$Fx3lD4LASvtX$BDVyBH2LfwZWZIOWRE0zyMEy/vrloE/yYogL7u+zmYY=",
+        "last_login": "2022-06-25T19:08:02.365Z",
+        "is_superuser": true,
+        "username": "fayielissa",
+        "first_name": "",
+        "last_name": "",
+        "email": "fmabhena2@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2021-12-01T20:06:54.120Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$ZoZrgWD1EpFZ$HtLNQPf6AxThSF1rQRTIR95g7FJRHajZs+JkdESy5yU=",
+        "last_login": "2022-05-29T20:34:31.979Z",
+        "is_superuser": false,
+        "username": "Fay",
+        "first_name": "Fay",
+        "last_name": "Mona",
+        "email": "Fay@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-05-29T20:34:31.100Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$jgcAzcp74r74$gY7+jdyq7NCTjgxFT7CqFTP+peB8CRMq8BWhs0D8yWU=",
+        "last_login": "2022-05-29T20:36:42.950Z",
+        "is_superuser": false,
+        "username": "Mona",
+        "first_name": "Monalissa",
+        "last_name": "Mabhena",
+        "email": "fmabhena@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-05-29T20:36:20.826Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!xZ5KAj7QeXsePwfdVY06ocPTG1G4IU0H5LqSv0gR",
+        "last_login": "2022-06-05T14:47:39.165Z",
+        "is_superuser": false,
+        "username": "faith_monalissa",
+        "first_name": "Faith Monalissa",
+        "last_name": "Mabhena",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-06-05T14:05:20.602Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!aafbVo8lwSL2pbXobBLMh7uvw69RAK30oLSVi8uS",
+        "last_login": "2022-06-05T14:48:06.913Z",
+        "is_superuser": false,
+        "username": "faith_monalissa2",
+        "first_name": "Faith Monalissa",
+        "last_name": "Mabhena",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-06-05T14:30:12.619Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$iGardhnyOq9R$qyBJhX7uyLdhxazKbJK7HjHwz7EwiRpG9KjEzmDWsnY=",
+        "last_login": "2022-06-18T19:42:22.773Z",
+        "is_superuser": false,
+        "username": "tphiri",
+        "first_name": "Tanyah",
+        "last_name": "Phiri",
+        "email": "tphiri@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-06-11T15:18:08.325Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$jrJHosB0AzBm$bnNJZ+oSCHMConivRedNxbSDPh/lrEboWGKa+o4VMeg=",
+        "last_login": "2022-06-18T19:50:47.431Z",
+        "is_superuser": false,
+        "username": "mona",
+        "first_name": "Monalissa",
+        "last_name": "Lissa",
+        "email": "mona@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-06-18T19:49:59.301Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "jlyyylba7hbe75oygpwkqc3zkvmpi5gh",
+    "fields": {
+        "session_data": "OTY2Mzk3MTE2ZWE2MjEwOWRjNDE2ZWM0Yzc1ZTI4NjNhZmNkMWRiYjp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI3MTMwMGJhMmYxZTM5Y2ExYzdlOTdhNTg4Y2UxZTM1YTg0ODUyZDU0In0=",
+        "expire_date": "2021-12-15T20:08:23.994Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "qergxxmx4vribapsqgdu1szz75buv6do",
+    "fields": {
+        "session_data": "OTY2Mzk3MTE2ZWE2MjEwOWRjNDE2ZWM0Yzc1ZTI4NjNhZmNkMWRiYjp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI3MTMwMGJhMmYxZTM5Y2ExYzdlOTdhNTg4Y2UxZTM1YTg0ODUyZDU0In0=",
+        "expire_date": "2022-01-01T23:21:26.447Z"
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "localhost:8080",
+        "name": "localhost:8080"
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 1,
+    "fields": {
+        "provider": "facebook",
+        "name": "Facebook login",
+        "client_id": "1398487747321389",
+        "secret": "01841523ace24d7923ba67c9a36135af",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8080"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 2,
+    "fields": {
+        "provider": "google",
+        "name": "Google login",
+        "client_id": "984451994778-sortkm1dcr3cm40tjs05bvp4euf24vkv.apps.googleusercontent.com",
+        "secret": "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",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8080"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "faith_monalissa"
+        ],
+        "provider": "facebook",
+        "uid": "1609684452744944",
+        "last_login": "2022-06-05T14:47:39.147Z",
+        "date_joined": "2022-06-05T14:05:20.712Z",
+        "extra_data": "{\"id\": \"1609684452744944\", \"name\": \"Faith Monalissa Mabhena\", \"first_name\": \"Faith Monalissa\", \"last_name\": \"Mabhena\"}"
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "faith_monalissa2"
+        ],
+        "provider": "google",
+        "uid": "102452707566153951842",
+        "last_login": "2022-06-05T14:48:06.872Z",
+        "date_joined": "2022-06-05T14:30:12.649Z",
+        "extra_data": "{\"id\": \"102452707566153951842\", \"name\": \"Faith Monalissa Mabhena\", \"given_name\": \"Faith Monalissa\", \"family_name\": \"Mabhena\", \"picture\": \"https://lh3.googleusercontent.com/a-/AOh14GhkGV3Nhos12hCM7Z6mKRjWr89TJ4BqMsDccbtQ=s96-c\", \"locale\": \"en\"}"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2021-12-01T20:38:21.600Z",
+        "user": [
+            "fayielissa"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Malcom",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2021-12-01T20:46:09.493Z",
+        "user": [
+            "fayielissa"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Malcom",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2021-12-01T20:47:37.785Z",
+        "user": [
+            "fayielissa"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Malcom",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2021-12-01T20:49:35.241Z",
+        "user": [
+            "fayielissa"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Faith Monalissa",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2021-12-01T20:50:27.343Z",
+        "user": [
+            "fayielissa"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Stone",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2021-12-01T20:51:38.359Z",
+        "user": [
+            "fayielissa"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Kudzai",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2021-12-01T20:52:34.125Z",
+        "user": [
+            "fayielissa"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Malcom",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2021-12-01T20:54:23.006Z",
+        "user": [
+            "fayielissa"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "Tanyaradzwa Sean",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2021-12-01T21:12:59.384Z",
+        "user": [
+            "fayielissa"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "Tanyaradzwa Sean",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2021-12-01T21:14:19.664Z",
+        "user": [
+            "fayielissa"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Stone",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2021-12-01T21:16:57.961Z",
+        "user": [
+            "fayielissa"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Kudzai",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2021-12-01T21:18:10.415Z",
+        "user": [
+            "fayielissa"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Malcom",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2021-12-01T21:22:51.981Z",
+        "user": [
+            "fayielissa"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Malcom",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2021-12-01T21:24:40.165Z",
+        "user": [
+            "fayielissa"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Malcom",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2021-12-01T21:26:14.150Z",
+        "user": [
+            "fayielissa"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Malcom",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2021-12-09T20:45:21.062Z",
+        "user": [
+            "fayielissa"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Car object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2021-12-09T20:49:34.696Z",
+        "user": [
+            "fayielissa"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "Car object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2021-12-09T20:53:07.400Z",
+        "user": [
+            "fayielissa"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "Car object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2021-12-09T20:57:29.369Z",
+        "user": [
+            "fayielissa"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "Car object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2021-12-11T21:27:42.347Z",
+        "user": [
+            "fayielissa"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2021-12-14T21:38:09.659Z",
+        "user": [
+            "fayielissa"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2018 Toyota 4Runner",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2021-12-14T21:41:22.937Z",
+        "user": [
+            "fayielissa"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "2018 Toyota Corolla",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2022-06-05T13:54:14.364Z",
+        "user": [
+            "fayielissa"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2022-06-05T13:55:06.094Z",
+        "user": [
+            "fayielissa"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8080",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2022-06-05T14:21:45.037Z",
+        "user": [
+            "fayielissa"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "Google login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2022-06-18T18:02:08.487Z",
+        "user": [
+            "fayielissa"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "4",
+        "object_repr": "mona@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+}
+]
