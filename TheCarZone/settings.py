@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '7)yv5^^zk4yr98rn#dv4ot@-neoqmm6&#vze7gv#=-q_^rhian'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = []
 
@@ -102,7 +102,7 @@ WSGI_APPLICATION = 'TheCarZone.wsgi.application'
 #    }
 #}
 
-DATABASES = {'default': dj_database_url.config(default='postgres:postgres:root@localhost/TheCarZone_db')}
+DATABASES = {'default': dj_database_url.config(default='postgres://postgres:root@localhost/TheCarZone_db')}
 
 
 # Password validation
